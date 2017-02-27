@@ -1,0 +1,30 @@
+[14,16]overlaps with [15, 20]
+[21,23]overlaps with [10, 30]
+
+New Inorder traversal is
+[5, 20] max = 20
+[10, 30] max = 30
+[12, 15] max = 16
+[14, 16] max = 16
+[15, 20] max = 40
+[17, 19] max = 40
+[21, 23] max = 23
+[30, 40] max = 40
+
+New Inorder traversal is
+[5, 20] max = 20
+[10, 30] max = 30
+[12, 15] max = 15
+[15, 20] max = 40
+[17, 19] max = 40
+[21, 23] max = 23
+[30, 40] max = 40
+
+
+New Inorder traversal is
+[5, 20] max = 20
+[12, 15] max = 20
+[15, 20] max = 40
+[17, 19] max = 40
+[21, 23] max = 23
+[30, 40] max = 40
